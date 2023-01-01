@@ -1,5 +1,5 @@
 # Project-X
 
-This is the code for the following Chrome extention: https://chrome.google.com/webstore/detail/myautoge-chrome-extension/fbchgpeammgabjbhbhkcbdjihpbffokh?hl=en
+This is the code for the following Chrome extension: https://chrome.google.com/webstore/detail/myautoge-chrome-extension/fbchgpeammgabjbhbhkcbdjihpbffokh?hl=en
 
-Sometimes it does it's job, sometimes not. Can someone figure out why? 
+Sometimes it does its job, sometimes not. Can someone figure out why?
