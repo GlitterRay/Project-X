@@ -151,18 +151,6 @@ chrome.runtime.onMessage.addListener(
             }
 
             // color
-            // material = get_material("Color:");
-            // if (material.indexOf('GREEN') > -1) color = 5;
-            // else if (material.indexOf('BLACK') > -1) color = 16;
-            // else if (material.indexOf('WHITE') > -1) color = 1;
-            // else if (material.indexOf('YELLOW') > -1) color = 4;
-            // else if (material.indexOf('RED') > -1) color = 8;
-            // else if (material.indexOf('SILVER') > -1) color = 12;
-            // else if (material.indexOf('BLUE') > -1) color = 14;
-            // else if (material.indexOf('GRAY') > -1) color = 13;
-            // else if (material.indexOf('ORANGE') > -1) color = 9;
-            // else if (material.indexOf('BROWN') > -1) color = 7;
-            // else color = 0;
             material = $.trim($('[data-uname=lotdetailColorvalue]').text());
             if (material.indexOf("GREEN") > -1) color = 5;
             else if (material.indexOf("BLACK") > -1) color = 16;
